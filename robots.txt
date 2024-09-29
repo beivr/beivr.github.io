@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://beivr.github.io/jbc/sitemap.jbc.gz
